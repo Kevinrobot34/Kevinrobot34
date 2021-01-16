@@ -15,7 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)]( https://twitter.com/Kevinrobot34 )
 [![Kaggle](https://img.shields.io/badge/Kaggle-0?style=flat-square&logo=kaggle&color=20BEFF&logoColor=white)]( https://www.kaggle.com/kevinrobot34 )
 [![SlideShare](https://img.shields.io/badge/SlideShare-0?style=flat-square&logo=slideshare&color=008ED2&logoColor=white)]( https://www2.slideshare.net/ssuserf0844f )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0?style=flat-square&logo=linkedin&color=0077B5&logoColor=white)]( https://www.linkedin.com/in/%E5%B7%A7%E4%BD%9C-%E5%A4%A7%E9%87%8E-03700a181/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0?style=flat-square&logo=linkedin&color=0077B5&logoColor=white)]( www.linkedin.com/in/kevinrobot34 )
 [![Medium](https://img.shields.io/badge/Medium-0?style=flat-square&logo=medium&color=12100E&logoColor=white)]( https://medium.com/@kevinrobot34 ) \
 [Wantedly]( https://www.wantedly.com/users/36645077 )
  | [AtCoder](https://atcoder.jp/users/Kevinrobot34)
