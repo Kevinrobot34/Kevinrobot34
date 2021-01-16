@@ -12,7 +12,9 @@
 
 
 ## Links
-[Twitter]( https://twitter.com/Kevinrobot34 )
+[![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)]( https://twitter.com/Kevinrobot34 )
+ | [![Kaggle](https://img.shields.io/badge/Kaggle-0?style=flat-square&logo=kaggle&color=20BEFF&logoColor=white)]( https://twitter.com/Kevinrobot34 )
+ | [![SlideShare](https://img.shields.io/badge/SlideShare-0?style=flat-square&logo=slideshare&color=008ED2&logoColor=white)]( https://www2.slideshare.net/ssuserf0844f )
+ | [![Medium](https://img.shields.io/badge/Medium-0?style=flat-square&logo=medium&color=12100E&logoColor=white)]( https://medium.com/@kevinrobot34 )
  | [Wantedly]( https://www.wantedly.com/users/36645077 )
- | [Kaggle](https://www.kaggle.com/kevinrobot34)
  | [AtCoder](https://atcoder.jp/users/Kevinrobot34)
