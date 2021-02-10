@@ -11,6 +11,8 @@
 * AtCoder: Blue
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Links
 [![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)]( https://twitter.com/Kevinrobot34 )
 [![Kaggle](https://img.shields.io/badge/Kaggle-0?style=flat-square&logo=kaggle&color=20BEFF&logoColor=white)]( https://www.kaggle.com/kevinrobot34 )
