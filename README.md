@@ -4,12 +4,15 @@
 
 
 ## Overview
-* Data Scientist/Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
+* Data Scientist / Data Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
 * Master of Science, University of Tokyo
   - Elementary Particle Physics
-* Kaggle: Competition Master
-* AtCoder: Blue
-
+* Programming Contest
+  - Kaggle: Competition Master
+  - AtCoder: Blue
+  - CTF: Crypto, Reversing
+* Cloud
+  - AWS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
