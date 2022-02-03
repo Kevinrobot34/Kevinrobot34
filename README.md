@@ -11,8 +11,9 @@
   - Kaggle: Competition Master
   - AtCoder: Blue
   - CTF: Crypto, Reversing
+    - [Cryptohack]( https://cryptohack.org/user/Kevinrobot34/ )
 * Cloud
-  - AWS
+  - AWS: ECS, Batch, Lambda, S3, Athena, etc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
