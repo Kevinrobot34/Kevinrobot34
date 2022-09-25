@@ -15,7 +15,8 @@
 * Cloud
   - AWS: ECS, Batch, Lambda, S3, Athena, etc
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical&hide=jupyter%20notebook&exclude_repo=IDAO2019_public)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical&hide=jupyter%20notebook,c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Links
 [![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)]( https://twitter.com/Kevinrobot34 )
