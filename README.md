@@ -14,6 +14,7 @@
     - [Cryptohack]( https://cryptohack.org/user/Kevinrobot34/ )
 * Cloud
   - AWS: ECS, Batch, Lambda, S3, Athena, etc
+  - GCP: CloudRun, GCS, dataform, etc
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical&hide=jupyter%20notebook&exclude_repo=IDAO2019_public)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical&hide=jupyter%20notebook,c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats) -->
