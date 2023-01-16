@@ -1,5 +1,5 @@
 ![Kevinrobot34]( https://img.shields.io/badge/Degree-Master%20of%20Science-brightgreen ) \
-[![Kevinrobot34]( https://road-to-kaggle-grandmaster.vercel.app/api/simple/Kevinrobot34 )]( https://www.kaggle.com/kevinrobot34 )
+<!-- [![Kevinrobot34]( https://road-to-kaggle-grandmaster.vercel.app/api/simple/Kevinrobot34 )]( https://www.kaggle.com/kevinrobot34 ) -->
 [![Kevinrobot34](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKevinrobot34)]( https://atcoder.jp/users/Kevinrobot34 )
 
 
