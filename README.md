@@ -14,8 +14,9 @@
   - CTF: Crypto, Reversing
     - [Cryptohack]( https://cryptohack.org/user/Kevinrobot34/ )
 * Cloud
-  - AWS: ECS, Batch, Lambda, S3, Athena, etc
-  - GCP: CloudRun, GCS, dataform, etc
+  - ![AWS](https://img.shields.io/badge/AWS-0?style=flat-square&logo=amazonaws&color=232F3E&logoColor=white) : ![AWS](https://img.shields.io/badge/S3-0?style=flat-square&logo=amazons3&color=569A31&logoColor=white) ![AWS](https://img.shields.io/badge/ECS-0?style=flat-square&logo=amazonecs&color=FF9900&logoColor=white) ![AWS](https://img.shields.io/badge/Lambda-0?style=flat-square&logo=awslambda&color=FF9900&logoColor=white) Batch, Athena, etc
+  - ![GCP](https://img.shields.io/badge/GCP-0?style=flat-square&logo=googlecloud&color=4285F4&logoColor=white): CloudRun, GCS, dataform, etc
+  - ![Snowflake](https://img.shields.io/badge/Snowflake-0?style=flat-square&logo=snowflake&color=29B5E8&logoColor=white)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical&hide=jupyter%20notebook&exclude_repo=IDAO2019_public)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinrobot34&layout=compact&theme=radical&hide=jupyter%20notebook,c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats) -->
