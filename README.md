@@ -7,6 +7,8 @@
 * Data Scientist / Data Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
 * Master of Science, University of Tokyo
   - Elementary Particle Physics
+* Programming Language
+  - Python / TypeScript / Go / Terraform / etc
 * Programming Contest
   - Kaggle: Competition Master
   - AtCoder: Blue
