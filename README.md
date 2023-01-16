@@ -26,5 +26,5 @@
 [![SlideShare](https://img.shields.io/badge/SlideShare-0?style=flat-square&logo=slideshare&color=008ED2&logoColor=white)]( https://www2.slideshare.net/ssuserf0844f )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0?style=flat-square&logo=linkedin&color=0077B5&logoColor=white)]( https://www.linkedin.com/in/kevinrobot34 )
 [![Medium](https://img.shields.io/badge/Medium-0?style=flat-square&logo=medium&color=12100E&logoColor=white)]( https://medium.com/@kevinrobot34 ) \
-[Wantedly]( https://www.wantedly.com/users/36645077 )
+[![Wantedly](https://img.shields.io/badge/Wantedly-0?style=flat-square&logo=wantedly&color=1DA1F2&logoColor=white)]( https://www.wantedly.com/users/36645077 )
  | [AtCoder](https://atcoder.jp/users/Kevinrobot34)
