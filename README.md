@@ -6,8 +6,8 @@
 * Data Scientist / Data Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
 * Master of Science, University of Tokyo
   - Elementary Particle Physics
-* Programming Language
-  - Python / TypeScript / Go / Terraform / etc
+* Programming Language / Framework
+  - ![Python](https://img.shields.io/badge/python-0?style=flat-square&logo=python&color=3776AB&logoColor=white) ![Go](https://img.shields.io/badge/go-0?style=flat-square&logo=go&color=00ADD8&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=TypeScript&color=3178C6&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-0?style=flat-square&logo=Terraform&color=7B42BC&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=TypeScript&color=3178C6&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-0?style=flat-square&logo=dbt&color=FF694B&logoColor=white) 
 * Programming Contest
   - Kaggle: Competition Master
   - AtCoder: Blue
