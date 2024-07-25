@@ -3,7 +3,7 @@
 <!-- [![Kevinrobot34]( https://road-to-kaggle-grandmaster.vercel.app/api/simple/Kevinrobot34 )]( https://www.kaggle.com/kevinrobot34 ) -->
 
 ## Overview
-* Data Scientist / Data Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
+* Data Engineer / Data Platform Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
 * Master of Science, University of Tokyo
   - Elementary Particle Physics
 
@@ -22,8 +22,8 @@
 
 
 ### Programming Contest
-- Kaggle: Competition Master
-- AtCoder: Blue
+- [Kaggle]( https://www.kaggle.com/kevinrobot34 ): Competition Master
+- [AtCoder]( https://atcoder.jp/users/Kevinrobot34 ): Blue
 - CTF: Crypto, Reversing
   - [Cryptohack]( https://cryptohack.org/user/Kevinrobot34/ )
 
@@ -34,11 +34,10 @@
 ## Links
 <!-- badge: https://shields.io/ -->
 <!-- logo: https://simpleicons.org/ -->
-[![Twitter](https://img.shields.io/badge/Twitter-0?style=flat-square&logo=twitter&color=1DA1F2&logoColor=white)]( https://twitter.com/Kevinrobot34 )
-[![Kaggle](https://img.shields.io/badge/Kaggle-0?style=flat-square&logo=kaggle&color=20BEFF&logoColor=white)]( https://www.kaggle.com/kevinrobot34 )
-[![SlideShare](https://img.shields.io/badge/SlideShare-0?style=flat-square&logo=slideshare&color=008ED2&logoColor=white)]( https://www2.slideshare.net/ssuserf0844f )
+[![X](https://img.shields.io/badge/X-0?style=flat-square&logo=x&color=000000&logoColor=white)]( https://x.com/Kevinrobot34 )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0?style=flat-square&logo=linkedin&color=0A66C2&logoColor=white)]( https://www.linkedin.com/in/kevinrobot34 )
+[![Wantedly](https://img.shields.io/badge/Wantedly-0?style=flat-square&logo=wantedly&color=21BDDB&logoColor=white)]( https://www.wantedly.com/users/36645077 ) \
 [![Medium](https://img.shields.io/badge/Medium-0?style=flat-square&logo=medium&color=000000&logoColor=white)]( https://medium.com/@kevinrobot34 ) 
-[![Wantedly](https://img.shields.io/badge/Wantedly-0?style=flat-square&logo=wantedly&color=21BDDB&logoColor=white)]( https://www.wantedly.com/users/36645077 )
 [![Zenn](https://img.shields.io/badge/Zenn-0?style=flat-square&logo=zenn&color=3EA8FF&logoColor=white)]( https://zenn.dev/kevinrobot34 )
 [![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-0?style=flat-square&logo=speakerdeck&color=009287&logoColor=white)]( https://speakerdeck.com/kevinrobot34 )
+[![SlideShare](https://img.shields.io/badge/SlideShare-0?style=flat-square&logo=slideshare&color=008ED2&logoColor=white)]( https://www2.slideshare.net/ssuserf0844f )
