@@ -3,6 +3,8 @@
 <!-- [![Kevinrobot34]( https://road-to-kaggle-grandmaster.vercel.app/api/simple/Kevinrobot34 )]( https://www.kaggle.com/kevinrobot34 ) -->
 
 ## Overview
+
+* VP of Data & AI at [Finatext Holdings Ltd.]( https://finatext.com/ ) (2025/10 ~)
 * Data Engineer / Data Platform Engineer at [Nowcast Inc.]( https://www.nowcast.co.jp/ ) (2020/04 ~)
 * Master of Science, University of Tokyo
   - Elementary Particle Physics
